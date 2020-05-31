@@ -1,0 +1,12 @@
+/Users/nisihara/Qsync/workspace/C#/Dictionary/obj/Debug/netcoreapp3.1/Dictionary.csprojAssemblyReference.cache
+/Users/nisihara/Qsync/workspace/C#/Dictionary/obj/Debug/netcoreapp3.1/Dictionary.AssemblyInfoInputs.cache
+/Users/nisihara/Qsync/workspace/C#/Dictionary/obj/Debug/netcoreapp3.1/Dictionary.AssemblyInfo.cs
+/Users/nisihara/Qsync/workspace/C#/Dictionary/obj/Debug/netcoreapp3.1/Dictionary.csproj.CoreCompileInputs.cache
+/Users/nisihara/Qsync/workspace/C#/Dictionary/bin/Debug/netcoreapp3.1/Dictionary.deps.json
+/Users/nisihara/Qsync/workspace/C#/Dictionary/bin/Debug/netcoreapp3.1/Dictionary.runtimeconfig.json
+/Users/nisihara/Qsync/workspace/C#/Dictionary/bin/Debug/netcoreapp3.1/Dictionary.runtimeconfig.dev.json
+/Users/nisihara/Qsync/workspace/C#/Dictionary/bin/Debug/netcoreapp3.1/Dictionary.dll
+/Users/nisihara/Qsync/workspace/C#/Dictionary/bin/Debug/netcoreapp3.1/Dictionary.pdb
+/Users/nisihara/Qsync/workspace/C#/Dictionary/obj/Debug/netcoreapp3.1/Dictionary.dll
+/Users/nisihara/Qsync/workspace/C#/Dictionary/obj/Debug/netcoreapp3.1/Dictionary.pdb
+/Users/nisihara/Qsync/workspace/C#/Dictionary/obj/Debug/netcoreapp3.1/Dictionary.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/nisihara/Qsync/workspace/C#/Disposable/bin/Debug/netcoreapp3.1/Disposable.deps.json
+/Users/nisihara/Qsync/workspace/C#/Disposable/bin/Debug/netcoreapp3.1/Disposable.runtimeconfig.json
+/Users/nisihara/Qsync/workspace/C#/Disposable/bin/Debug/netcoreapp3.1/Disposable.runtimeconfig.dev.json
+/Users/nisihara/Qsync/workspace/C#/Disposable/bin/Debug/netcoreapp3.1/Disposable.dll
+/Users/nisihara/Qsync/workspace/C#/Disposable/bin/Debug/netcoreapp3.1/Disposable.pdb
+/Users/nisihara/Qsync/workspace/C#/Disposable/obj/Debug/netcoreapp3.1/Disposable.csprojAssemblyReference.cache
+/Users/nisihara/Qsync/workspace/C#/Disposable/obj/Debug/netcoreapp3.1/Disposable.AssemblyInfoInputs.cache
+/Users/nisihara/Qsync/workspace/C#/Disposable/obj/Debug/netcoreapp3.1/Disposable.AssemblyInfo.cs
+/Users/nisihara/Qsync/workspace/C#/Disposable/obj/Debug/netcoreapp3.1/Disposable.csproj.CoreCompileInputs.cache
+/Users/nisihara/Qsync/workspace/C#/Disposable/obj/Debug/netcoreapp3.1/Disposable.dll
+/Users/nisihara/Qsync/workspace/C#/Disposable/obj/Debug/netcoreapp3.1/Disposable.pdb
+/Users/nisihara/Qsync/workspace/C#/Disposable/obj/Debug/netcoreapp3.1/Disposable.genruntimeconfig.cache

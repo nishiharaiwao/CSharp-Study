@@ -1,0 +1,12 @@
+/Users/nisihara/Qsync/workspace/C#/DeepCopy/obj/Debug/netcoreapp3.1/DeepCopy.csprojAssemblyReference.cache
+/Users/nisihara/Qsync/workspace/C#/DeepCopy/obj/Debug/netcoreapp3.1/DeepCopy.AssemblyInfoInputs.cache
+/Users/nisihara/Qsync/workspace/C#/DeepCopy/obj/Debug/netcoreapp3.1/DeepCopy.AssemblyInfo.cs
+/Users/nisihara/Qsync/workspace/C#/DeepCopy/obj/Debug/netcoreapp3.1/DeepCopy.csproj.CoreCompileInputs.cache
+/Users/nisihara/Qsync/workspace/C#/DeepCopy/bin/Debug/netcoreapp3.1/DeepCopy.deps.json
+/Users/nisihara/Qsync/workspace/C#/DeepCopy/bin/Debug/netcoreapp3.1/DeepCopy.runtimeconfig.json
+/Users/nisihara/Qsync/workspace/C#/DeepCopy/bin/Debug/netcoreapp3.1/DeepCopy.runtimeconfig.dev.json
+/Users/nisihara/Qsync/workspace/C#/DeepCopy/bin/Debug/netcoreapp3.1/DeepCopy.dll
+/Users/nisihara/Qsync/workspace/C#/DeepCopy/bin/Debug/netcoreapp3.1/DeepCopy.pdb
+/Users/nisihara/Qsync/workspace/C#/DeepCopy/obj/Debug/netcoreapp3.1/DeepCopy.dll
+/Users/nisihara/Qsync/workspace/C#/DeepCopy/obj/Debug/netcoreapp3.1/DeepCopy.pdb
+/Users/nisihara/Qsync/workspace/C#/DeepCopy/obj/Debug/netcoreapp3.1/DeepCopy.genruntimeconfig.cache
